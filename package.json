@@ -1,0 +1,11 @@
+{
+  "name": "mini-game-google",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ArtLevel/mini-game-google.git",
+  "author": "ArtLevel <algitit@rambler.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
